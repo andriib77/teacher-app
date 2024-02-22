@@ -1,15 +1,17 @@
-import { useEffect } from "react";
 
+import { useEffect } from "react";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
 
 function App() {
+ 
   useEffect(() => {}, []);
 
   return (
     <>
       <h1>Lesson 3</h1>
+
       <div></div>
       <div></div>
       <div></div>

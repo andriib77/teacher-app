@@ -10,8 +10,8 @@ function App() {
   return (
     <>
       <h1>Lesson 3</h1>
-      <div></div>
-      <div></div>
+      <div className="container">Hello</div>
+      <div>World</div>
       <div></div>
       <div></div>
     </>

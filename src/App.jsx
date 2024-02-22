@@ -8,14 +8,11 @@ function App() {
 
   return (
     <>
-      <h1>Lesson 1</h1>
-      <ol>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
+      <h1>Lesson 2</h1>
+      <img src="" alt="" />
+      <img src="" alt="" />
+      <img src="" alt="" />
+      <img src="" alt="" />
     </>
   );
 }
